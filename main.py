@@ -29,13 +29,3 @@ resources = {
     "milk": 200,
     "coffee": 100,
 }
-# TODO: 1. print report all cofee machine resources
-
-# TODO: 2. check report sufficient to make an order
-
-# TODO: 3. process coin
-
-# TODO: 4. check transection successful
-
-# TODO: 5. make cofee
-
